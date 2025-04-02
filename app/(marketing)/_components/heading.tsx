@@ -10,7 +10,7 @@ export const Heading = () => {
                     Tus Ideas, Documentos & Planes. Unidos. bienvenido a 
                     <span className="underline"> NotionCraft</span>
                 </h1>
-                <h3 className="text-base sm:text-xl md:text-2xl">
+                <h3 className="text-base sm:text-xl md:text-2xl pb-3">
                 NotionCraft es un espacio de trabajo optimizado donde <br />
                 la rapidez y la eficiencia fluyen naturalmente.
                 </h3>
